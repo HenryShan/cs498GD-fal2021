@@ -3419,3 +3419,42 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.10.16-00.02.45:815][732]LogSavePackage: Moving 'C:/Coding/cs498GD/cs498gd-fa2021/MP2/Saved/MyContent_Auto337D4DFCC49DAE3C0BFE7F0B35C3D8859.tmp' to 'C:/Coding/cs498GD/cs498gd-fa2021/MP2/Saved/Autosaves/Game/MyContent_Auto3.umap'
 [2021.10.16-00.02.45:816][732]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyContent' took 0.074
 [2021.10.16-00.02.45:816][732]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.074
+[2021.10.16-00.08.36:556][518]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.16-00.08.36:564][518]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.16-00.08.36:564][518]PIE: New page: PIE session: MyContent (Oct 15, 2021, 2:08:36 PM)
+[2021.10.16-00.08.36:564][518]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyContent
+[2021.10.16-00.08.36:586][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021540s)
+[2021.10.16-00.08.36:587][518]LogAIModule: Creating AISystem for world MyContent
+[2021.10.16-00.08.36:587][518]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2021.10.16-00.08.36:587][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent.MyContent to /Game/UEDPIE_0_MyContent.MyContent (0.022854s)
+[2021.10.16-00.08.36:604][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.10.16-00.08.36:610][518]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.10.16-00.08.36:610][518]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.16-00.08.36:610][518]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.16-00.08.36:610][518]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.16-00.08.36:610][518]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.16-00.08.36:610][518]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.16-00.08.36:610][518]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.16-00.08.36:610][518]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.16-00.08.36:610][518]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.16-00.08.36:611][518]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.16-00.08.36:611][518]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.16-00.08.36:882][518]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.16-00.08.36:882][518]LogAudioMixer: Display: 1: FrontRight
+[2021.10.16-00.08.37:095][518]LogAudioMixer: Display: Using Audio Device Speaker (Realtek(R) Audio)
+[2021.10.16-00.08.37:095][518]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.16-00.08.37:095][518]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.16-00.08.37:095][518]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.16-00.08.37:096][518]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.16-00.08.37:096][518]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.16-00.08.37:096][518]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.16-00.08.37:111][518]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.16-00.08.37:111][518]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.16-00.08.37:111][518]LogInit: FAudioDevice initialized.
+[2021.10.16-00.08.37:111][518]LogAudio: Display: Audio Device (ID: 3) registered with world 'MyContent'.
+[2021.10.16-00.08.37:119][518]LogLoad: Game class is 'GameModeBase'
+[2021.10.16-00.08.37:122][518]LogWorld: Bringing World /Game/UEDPIE_0_MyContent.MyContent up for play (max tick rate 60) at 2021.10.15-19.08.37
+[2021.10.16-00.08.37:122][518]LogWorld: Bringing up level for play took: 0.002725
+[2021.10.16-00.08.37:123][518]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.10.16-00.08.37:125][518]PIE: Server logged in
+[2021.10.16-00.08.37:126][518]PIE: Play in editor total start time 0.565 seconds.
